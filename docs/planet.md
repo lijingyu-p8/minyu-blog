@@ -40,7 +40,7 @@ features:
   - title: ElasticSearch
     icon: info
     details: 搜索必不可少
-    link: /RocketMQ/
+    link: /ElasticSearch/
 
   - title: MySQL
     icon: blog

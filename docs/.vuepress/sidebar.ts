@@ -29,6 +29,13 @@ export default sidebar([
         prefix: "article/",
         link: "02.集群搭建"
       },
+      {
+        text: "03.Java-API",
+        icon: "note",
+        collapsable: true,
+        prefix: "article/",
+        link: "03.Java-API"
+      },
       // {
       //   text: "Articles 5-12",
       //   icon: "note",
@@ -47,6 +54,35 @@ export default sidebar([
       //     },
       //   ],
       // },
+    ],
+  },
+  {
+    text: "ElasticSearch",
+    icon: "note",
+    prefix: "/ElasticSearch/",
+    link: "/ElasticSearch/",
+    children: [
+      {
+        text: "01.安装",
+        icon: "note",
+        collapsable: true,
+        prefix: "article/",
+        link: "01.安装"
+      },
+      {
+        text: "02.基础概念",
+        icon: "note",
+        collapsable: true,
+        prefix: "article/",
+        link: "02.基础概念"
+      },
+      {
+        text: "05.查询",
+        icon: "note",
+        collapsable: true,
+        prefix: "article/",
+        link: "05.查询"
+      },
     ],
   },
   // {
