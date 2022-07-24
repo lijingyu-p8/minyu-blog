@@ -6,7 +6,7 @@ export default defineUserConfig({
   title: "敏鱼-BLOG",
   description: "知识笔记",
 
-  base: "/",
+  base: "/minyu-blog/",
 
   theme,
 });
