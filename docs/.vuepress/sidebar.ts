@@ -70,11 +70,11 @@ export default sidebar([
         link: "01.安装"
       },
       {
-        text: "02.基础概念",
+        text: "02.核心概念",
         icon: "note",
         collapsable: true,
         prefix: "article/",
-        link: "02.基础概念"
+        link: "02.核心概念"
       },
       {
         text: "05.查询",
