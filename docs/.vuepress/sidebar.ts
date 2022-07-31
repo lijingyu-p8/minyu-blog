@@ -77,6 +77,13 @@ export default sidebar([
         link: "02.核心概念"
       },
       {
+        text: "03.索引",
+        icon: "note",
+        collapsable: true,
+        prefix: "article/",
+        link: "03.索引"
+      },
+      {
         text: "05.查询",
         icon: "note",
         collapsable: true,
