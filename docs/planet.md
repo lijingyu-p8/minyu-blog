@@ -32,6 +32,7 @@ features:
     icon: layout
     details: 多线程精髓
     link: /RocketMQ/
+    
   - title: JVM
     icon: comment
     details: 必不可少的虚拟机调优
@@ -60,6 +61,11 @@ features:
   - title: Docker
     icon: support
     details: 容器镜像构建部署
+    link: /RocketMQ/
+  
+  - title: Hadoop
+    icon: support
+    details: 大数据入门第一课
     link: /RocketMQ/
 
   # - title: Article Encryption

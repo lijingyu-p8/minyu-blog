@@ -84,11 +84,18 @@ export default sidebar([
         link: "03.索引"
       },
       {
-        text: "05.查询",
+        text: "04.数据新增",
         icon: "note",
         collapsable: true,
         prefix: "article/",
-        link: "05.查询"
+        link: "04.数据新增"
+      },
+      {
+        text: "05.数据查询",
+        icon: "note",
+        collapsable: true,
+        prefix: "article/",
+        link: "05.数据查询"
       },
     ],
   },
