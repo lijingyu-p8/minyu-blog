@@ -97,6 +97,20 @@ export default sidebar([
         prefix: "article/",
         link: "05.数据查询"
       },
+      {
+        text: "06.数据修改",
+        icon: "note",
+        collapsable: true,
+        prefix: "article/",
+        link: "06.数据修改"
+      },
+      {
+        text: "07.数据删除",
+        icon: "note",
+        collapsable: true,
+        prefix: "article/",
+        link: "07.数据删除"
+      },
     ],
   },
   // {
